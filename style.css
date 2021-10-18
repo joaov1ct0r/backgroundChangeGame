@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(33, 41, 48);
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+    font-family: "Bebas Neue", cursive;
+}
+ul li {
+    list-style: none;
+}
+ul li a {
+    text-decoration: none;
+    font-size: 1.5em;
+    color: white;
+}
+ul li a:hover {
+    font-size: 2rem;
+    color: black;
+    transition: 0.5s;
+}
+#backgroundContainer {
+    margin: auto;
+    width: 50%;
+    height: 20rem;
+    border: 0.2rem solid snow;
+    border-radius: 25px;
+    background-color: black;
+}
+#backgroundText {
+    margin: 5% auto auto auto;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+}
+#backgroundCounting {
+    display: none;
+    margin: 5% auto auto auto;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+}
+#backgroundInput {
+    display: block;
+    margin: 5% auto auto auto;
+    width: 35%;
+    height: 8%;
+    font-size: 1.5rem;
+    text-align: center;
+}
+#backgroundContainer button {
+    display: block;
+    margin: 5% auto auto auto;
+    width: 15%;
+    height: 15%;
+    font-size: 1.5rem;
+}
+#backgroundContainer button:hover {
+    font-size: 2rem;
+    color: white;
+    background-color: black;
+    transition: 0.9s;
+}
+section #cttForm {
+    display: block;
+    margin: auto;
+    width: 10%;
+    height: 15%;
+}
+section #cttForm p {
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+}
+section #cttForm input {
+    width: 100%;
+    height: 10rem;
+    margin-right: 5rem;
+    text-align: center;
+}
+section #cttForm button {
+    margin: 10% auto auto auto;
+    width: 5rem;
+    height: 2rem;
+    margin-left: 25%;
+    font-size: 1rem;
+}
+section #cttForm button:hover {
+    font-size: 1.2rem;
+    color: white;
+    background-color: black;
+    transition: 0.9s;
+}
