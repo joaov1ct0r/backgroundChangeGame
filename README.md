@@ -7,7 +7,7 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>TypeScript</li>
+  <li>JavaScript</li>
 </ul>
 
 <h2>Sobre</h2>
