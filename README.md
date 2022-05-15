@@ -12,7 +12,7 @@
 
 <h2>Sobre</h2>
 
-<p>background Color Game consiste em um jogo onde o jogador tem que inserir a cor do background Color no input se a cor do input for a mesma do background, a pontuação aumentara, caso não for a cor correta a pontuação reiniciara!.</p>
+<p>background Color Game consiste em um jogo onde o jogador tem que inserir a cor do background Color no input se a cor do input for a mesma do background, a pontuação aumentara, caso não for a cor correta a pontuação reiniciara.</p>
 
 <h2>MODO DE USO</h2>
 
